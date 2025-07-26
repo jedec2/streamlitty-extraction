@@ -1,0 +1,7 @@
+streamlit
+keybert
+sentence-transformers
+spacy
+pandas
+openpyxl
+PyMuPDF
